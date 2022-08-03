@@ -4,9 +4,20 @@
   font-style: italic;
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
+  font-size:larger;
 }
 .center{
   font-weight: lighter;
   color: blueviolet;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h2.intro{
+  text-decoration: underline;
+  font-size: 50px;
+}
+body{
+  background-color: cadetblue;
+}
+img{
+  align-self: center;
 }
