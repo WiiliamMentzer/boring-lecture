@@ -10,6 +10,7 @@
   font-weight: lighter;
   color: blueviolet;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: x-large;
 }
 h2.intro{
   text-decoration: underline;
@@ -19,5 +20,8 @@ body{
   background-color: cadetblue;
 }
 img{
-  align-self: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
 }
